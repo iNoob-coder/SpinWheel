@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "SpinWheel"
 include(":app")
- 
+include(":SpinWheel")
